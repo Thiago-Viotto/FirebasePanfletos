@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120867047972",
+    "firebase_url": "https://aplicativopanfletos.firebaseio.com",
+    "project_id": "aplicativopanfletos",
+    "storage_bucket": "aplicativopanfletos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120867047972:android:71da5c626c711708",
+        "android_client_info": {
+          "package_name": "com.thiago_viotto_grupotadiano.aplicativopanfletos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120867047972-93lpafq4qraf55o8e3g7p4sk9bheio4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thiago_viotto_grupotadiano.aplicativopanfletos",
+            "certificate_hash": "9141c91fd907fae31fd06122ea94edcab6caebaf"
+          }
+        },
+        {
+          "client_id": "120867047972-01vp5rq0uec3jv89bbtnns0bndv3v9ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVvyxycRLCA6Ua6e9RBQRVrY2BKP6diI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120867047972-01vp5rq0uec3jv89bbtnns0bndv3v9ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
